@@ -6,8 +6,7 @@
 - :leaves: Vegetarian in transition
 - :computer: I’m currently working on [Concrete Solutions](https://www.linkedin.com/company/concretebr/mycompany/)
 - 💬 Ask me about anything, let's talk a little bit.
-- 📫 How to reach me:[![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white "Linkedin")](https://www.linkedin.com/in/andersongns/)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white "Outlook")](mailto:andersongns@outlook.com)
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white "Linkedin")](https://www.linkedin.com/in/andersongns/)
 [![Steam](https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/andersongns/ "Steam")
 - :musical_note: I love music and i play :drum: sometimes.
 
